@@ -1,4 +1,4 @@
 CREATE TABLE projects (
-  id INTEGER PRIMARY KE
+  id INTEGER PRIMARY KEY
 
 );
